@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Felicitacion2022</string>
+    <string name="felicidades">{FELICIDADES}</string>
+    <string name="de_parte_de">de parte de</string>
+    <string name="carlos">Carlos!!!</string>
+    <string name="fondo_cumple">fondo_cumple</string>
+    <string name="cargando">Cargando…</string>
+</resources>
